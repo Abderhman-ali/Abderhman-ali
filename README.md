@@ -40,3 +40,38 @@
 - 🚀 Aim to join companies or startups working in automotive, IoT, or smart technology sectors.
 - 📚 Always learning and exploring new tools, platforms, and emerging trends in software and hardware integration.
 
+<p align="center">Looking forward to connecting with like-minded enthusiasts and professionals!</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanali&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 📫 **Connect with me:**
+
+<p align="center">
+  <a href="https://wa.me/201002959491" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/161JdLAZ1h/?mibextid=qi2Omg" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:abdelrhmanali6969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 📁 **Popular Repositories**
+Here are some of my featured projects:
+- 🛠️ [Your-Project-1](#)
+- 💻 [Your-Project-2](#)
+- 🔧 [Your-Project-3](#)
+
+---
+
+### 🕒 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelrahmanali&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+
